@@ -1,4 +1,4 @@
-#+TITLE: xv6 学习笔记
+#+TITLE: Mezzano 学习笔记
 #+DATE: [2019-04-20 Sat] - 
 
 * 说明
